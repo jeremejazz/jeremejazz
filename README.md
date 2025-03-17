@@ -1,4 +1,4 @@
-# Hello World👋
+# Hello! 👋
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -32,9 +32,9 @@
 ```
 
 - 🔭 I’m currently working on Software Development
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 🌱 I’m currently learning Mobile Development
 - 🤔 I’m looking for help with best practices
-- 📫 How to reach me: facebook, linkedin, telegram 
+- 📫 How to reach me: [Linkedin](https://linkedin.com/in/jeremecausing), [telegram](https://t.me/jeremejazz)
 - ⚡ Fun fact: Did you know that "Pokémon" is actually short for "Pocket Monsters"
 
 <!--

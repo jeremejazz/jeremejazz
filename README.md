@@ -1,11 +1,11 @@
-# Hello World! 👋
+# Hello World (and Beyond)! 🚀
 
 
 - 🔭 I’m currently working on Software Development
 - 🌱 I’m currently learning Mobile Development
-- 🤔 I’m looking for help with best practices
+- 🤔 I’m looking for help with best practices and UI/UX improvements.
 - 📫 How to reach me: [Linkedin](https://linkedin.com/in/jeremecausing), [telegram](https://t.me/jeremejazz)
-- ⚡ Fun fact: Did you know that "Pokémon" is actually short for "Pocket Monsters"
+- ⚡ Fun fact: A group of owls is called a parliament.
 
 <!--
 **jeremejazz/jeremejazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

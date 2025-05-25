@@ -1,7 +1,7 @@
 # Hello World (and Beyond)! 🚀
 
 
-- 🔭 I’m currently working on Software Development
+- 🔭 I’m currently working on publishing my first Flutter plugin
 - 🌱 I’m currently learning Mobile Development
 - 🤔 I’m looking for help with best practices and UI/UX improvements.
 - 📫 How to reach me: [Linkedin](https://linkedin.com/in/jeremecausing), [telegram](https://t.me/jeremejazz)

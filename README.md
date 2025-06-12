@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on publishing my next tutorial related to back-end development.
 - 🌱 I’m currently learning React.
-- 🤔 I’m looking for help with best practices and UI/UX improvements.
 - 📫 How to reach me: [email](mailto:me@jereme.me), [Linkedin](https://linkedin.com/in/jeremecausing), [Telegram](https://t.me/jeremejazz)
 - ⚡ Fun fact: A group of owls is called a parliament.
 

@@ -1,8 +1,8 @@
 # Hello World (and Beyond)! 🚀
 
 
-- 🔭 I’m currently working on publishing my next tutorial related to back-end development.
-- 🌱 I’m currently learning React.
+- 🔭 I’m working on creating example implementations of Clean Architecture
+- 🌱 I’m currently learning Clean Architecture.
 - 📫 How to reach me: [email](mailto:me@jereme.me), [Linkedin](https://linkedin.com/in/jeremecausing), [Telegram](https://t.me/jeremejazz)
 - ⚡ Fun fact: A group of owls is called a parliament.
 

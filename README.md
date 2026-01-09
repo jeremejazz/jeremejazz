@@ -1,7 +1,7 @@
 # Let's code! 🚀
 
 - 🔭 I’m working on Back-End Development
-- 🌱 I’m currently learning Mobile Development with React Native
+- 🌱 I’m currently learning Mobile Development with React Native + Python Web
 - 📧 You can reach me at:
   - [email](mailto:me@jereme.me) | [Linkedin](https://linkedin.com/in/jeremecausing) | [Telegram](https://t.me/jeremejazz)
 

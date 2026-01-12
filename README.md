@@ -2,6 +2,7 @@
 
 - 🔭 I’m working on Back-End Development
 - 🌱 I’m currently learning Mobile Development with React Native + Python Web
+- 🤔 I’m looking for help with finding a new project to work on.
 - 📧 You can reach me at:
   - [email](mailto:me@jereme.me) | [Linkedin](https://linkedin.com/in/jeremecausing) | [Telegram](https://t.me/jeremejazz)
 

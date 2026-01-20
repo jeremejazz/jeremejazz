@@ -1,6 +1,6 @@
 # Let's code! 🚀
 
-- 🔭 I’m working on building a desktop app
+- 🔭 I’m working on [jereferencer](https://github.com/jeremejazz/jereferencer)
 - 🌱 I’m currently learning Mobile Development with React Native + Python Web
 - 🤔 I’m looking for help with finding a new project to work on.
 - 📧 You can reach me at:
